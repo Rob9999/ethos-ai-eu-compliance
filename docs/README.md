@@ -14,7 +14,7 @@
 
 | Dokument | Beschreibung |
 |----------|--------------|
-| [Compliance Checklist](eu-ai-act-compliance-checklist.md) | Risikoklassifikation, Art. 5–15 Anforderungen, Self-Assessment |
+| [Compliance Checklist](eu-ai-act-compliance-checklist.md) | Risikoklassifikation, Art. 5, Art. 9–15 und Art. 50, Self-Assessment |
 
 ### DSGVO / GDPR
 
@@ -81,9 +81,9 @@ Das [Security Tier Model](security-tier-model.md) hilft bei der Zuordnung:
 
 ## Über EthosAI
 
-**EthosAI®** ist eine EU-AI-Act-konforme KI-Plattform, die
-Compliance, Sicherheit und Ethik als integrierten Bestandteil
-implementiert — nicht als nachträgliche Prüfung.
+**EthosAI®** ist auf EU-konformen Betrieb ausgelegt und behandelt
+Compliance, Sicherheit, Ethik und Auditierbarkeit als integrierte
+Release- und Deployment-Gates — nicht als nachträgliche Prüfung.
 
 ### Warum EthosAI?
 
@@ -111,7 +111,7 @@ Interesse an der Commercial License oder Enterprise-Support?
 Alle Dokumente in diesem Repository stehen unter
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-EthosAI® ist eine eingetragene Marke. Siehe [Trademark Policy](../../TRADEMARK.md).
+EthosAI® ist eine eingetragene Marke. Siehe [Trademark Policy](../TRADEMARK.md).
 
 ---
 

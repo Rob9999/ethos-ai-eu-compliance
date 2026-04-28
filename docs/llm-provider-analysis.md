@@ -99,8 +99,10 @@ ein Framework zur eigenen Bewertung.
 ### Kategorie A — US Cloud Provider (DPF-zertifiziert)
 - **Typisch:** Große API-Anbieter mit EU-Region-Option
 - **Stärken:** Zertifizierungen, SLA, Skalierbarkeit
-- **Risiken:** Schrems-III-Risiko, CLOUDS Act
-- **Empfohlene Maßnahmen:** EU-Region aktivieren, DPF-Status prüfen
+- **Risiken:** Drittland-Transfer, mögliche CLOUD-Act-Exposition,
+  Änderungen der Angemessenheitslage
+- **Empfohlene Maßnahmen:** EU-Region aktivieren, DPF-Listung des
+  konkreten Empfängers prüfen, Transfer Impact Assessment dokumentieren
 
 ### Kategorie B — EU-native Provider
 - **Typisch:** Europäische KI-Unternehmen, Forschungseinrichtungen
@@ -163,8 +165,10 @@ aus Abschnitt 3, um eine eigene Bewertung durchzuführen.
 
 ## Über EthosAI
 
-EthosAI® bietet integrierte Compliance-Prüfung für LLM-Provider-Anbindungen
-und unterstützt automatische Datenklassifikation pro Request.
+EthosAI® ist auf EU-konformen Betrieb ausgelegt und bietet integrierte
+Compliance-Prüfung für LLM-Provider-Anbindungen sowie Datenklassifikation
+pro Request. Die konkrete Anbieterfreigabe bleibt ein dokumentierter
+Prüfschritt des jeweiligen Deployments.
 
 → [Mehr erfahren](https://ethos-ai.eu)
 → [DSGVO LLM-Provider Guide](gdpr-llm-provider-guide.md)

@@ -44,14 +44,14 @@ aber empfohlen:
 
 ---
 
-## 3  Limited Risk — Transparenzpflichten (Art. 52)
+## 3  Limited Risk — Transparenzpflichten (Art. 50)
 
 | Pflicht | Checkliste |
 |---------|------------|
-| **Art. 52(1)** — Chatbot-Hinweis | [ ] Nutzer wissen, dass sie mit KI interagieren |
-| **Art. 52(2)** — Emotionserkennung | [ ] Nutzer über Emotionserkennung informiert |
-| **Art. 52(3)** — Deepfakes | [ ] Synthetische Inhalte als solche gekennzeichnet |
-| **Art. 52(4)** — KI-generierter Text | [ ] Bei öffentlichem Interesse: Kennzeichnungspflicht |
+| **Art. 50(1)** — Interaktion mit KI-System | [ ] Nutzer wissen, dass sie mit KI interagieren |
+| **Art. 50(3)** — Emotionserkennung / biometrische Kategorisierung | [ ] Betroffene Personen sind informiert |
+| **Art. 50(4)** — Deepfakes / synthetische Inhalte | [ ] Inhalte sind maschinenlesbar und sichtbar gekennzeichnet |
+| **Art. 50(4)** — KI-generierter Text im öffentlichen Interesse | [ ] Offenlegungspflicht geprüft |
 
 ### Umsetzungs-Tipps
 
@@ -138,8 +138,10 @@ Die folgenden KI-Anwendungen sind **verboten**:
 
 ## 6  Wie EthosAI Compliance adressiert
 
-EthosAI implementiert EU AI Act Compliance als integrierten
-Bestandteil der Plattform:
+EthosAI ist auf EU-konformen Betrieb ausgelegt und behandelt EU AI Act
+Compliance als integrierten Bestandteil der Plattform. Die konkrete
+Pflichtenzuordnung hängt vom Einsatzszenario, der Rolle des Betreibers
+und der Risikoklasse ab:
 
 | Anforderung | EthosAI-Lösung |
 |-------------|----------------|
@@ -154,9 +156,9 @@ Bestandteil der Plattform:
 
 ## Über EthosAI
 
-EthosAI® implementiert EU AI Act Compliance und DSGVO-Konformität
-als integrierten Bestandteil der Plattform — nicht als
-nachträgliche Prüfung.
+EthosAI® ist auf EU-konformen Betrieb ausgelegt und behandelt
+EU AI Act Compliance und DSGVO-Konformität als integrierte
+Release- und Deployment-Gates — nicht als nachträgliche Prüfung.
 
 → [Mehr erfahren](https://ethos-ai.eu)
 → [World-SDK für Entwickler](https://github.com/Rob9999/ethos-ai-world-sdk)

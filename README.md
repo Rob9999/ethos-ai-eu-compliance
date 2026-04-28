@@ -13,20 +13,20 @@
 
 | Dokument | Beschreibung |
 |----------|--------------|
-| [Compliance Checklist](eu-ai-act/compliance-checklist.md) | Risikoklassifikation, Art. 5–15 Anforderungen |
+| [Compliance Checklist](docs/eu-ai-act-compliance-checklist.md) | Risikoklassifikation, Art. 5, Art. 9–15 und Art. 50 |
 
 ### DSGVO / GDPR
 
 | Dokument | Beschreibung |
 |----------|--------------|
-| [Art. 44–49 LLM-Provider Guide](gdpr/art-44-49-guide.md) | Drittland-Transfer, SCCs, 10-Punkte-Checkliste |
-| [LLM-Provider-Analyse](security/llm-provider-analysis.md) | Bewertungskriterien, Entscheidungsmatrix |
+| [Art. 44–49 LLM-Provider Guide](docs/gdpr-llm-provider-guide.md) | Drittland-Transfer, SCCs, 10-Punkte-Checkliste |
+| [LLM-Provider-Analyse](docs/llm-provider-analysis.md) | Bewertungskriterien, Entscheidungsmatrix |
 
 ### Sicherheit
 
 | Dokument | Beschreibung |
 |----------|--------------|
-| [Security Tier Model](security/security-tier-model.md) | SEC-Tier 0–3, Maßnahmenmatrix |
+| [Security Tier Model](docs/security-tier-model.md) | SEC-Tier 0–3, Maßnahmenmatrix |
 
 ---
 
@@ -34,34 +34,33 @@
 
 | Feature | Community (MPL-2.0) | Commercial |
 |---------|---------------------|------------|
-| EU AI Act Risk Classification | ✅ | ✅ |
-| 4-Tier Security Model | ✅ (Konzept) | ✅ (Enforcement) |
-| DSGVO Provider Checks | ✅ (Checkliste) | ✅ (Automatisiert) |
-| Datenklassifikation | ✅ (4 Stufen) | ✅ (Automatisch) |
-| SEC-Tier Enforcement | — | ✅ |
-| EU-Region-Only Mode | — | ✅ |
-| Compliance Dashboard | — | ✅ |
+| EU AI Act Risk Classification | ✅ Checkliste | ✅ Workflow + Evidence |
+| 4-Tier Security Model | ✅ Konzept | ✅ Enforcement |
+| DSGVO Provider Checks | ✅ Checkliste | ✅ Automatisiert |
+| Datenklassifikation | ✅ Modell | ✅ Policy + Enforcement |
+| SEC-Tier Enforcement | — | ✅ Commercial/Enterprise |
+| EU-Region-Only Mode | — | ✅ Deployment-Policy |
+| Compliance Dashboard | — | ✅ Commercial/Enterprise |
 
 ---
 
 ## Schnellstart
 
-1. **Risikoklasse bestimmen** — [EU AI Act Checklist](eu-ai-act/compliance-checklist.md)
-2. **LLM-Provider prüfen** — [DSGVO Guide](gdpr/art-44-49-guide.md)
-3. **Sicherheitsstufe festlegen** — [Security Tiers](security/security-tier-model.md)
+1. **Risikoklasse bestimmen** — [EU AI Act Checklist](docs/eu-ai-act-compliance-checklist.md)
+2. **LLM-Provider prüfen** — [DSGVO Guide](docs/gdpr-llm-provider-guide.md)
+3. **Sicherheitsstufe festlegen** — [Security Tiers](docs/security-tier-model.md)
 
 ---
 
 ## Verzeichnisstruktur
 
 ```
-├── eu-ai-act/
-│   └── compliance-checklist.md
-├── gdpr/
-│   └── art-44-49-guide.md
-├── security/
-│   ├── security-tier-model.md
-│   └── llm-provider-analysis.md
+├── docs/
+│   ├── eu-ai-act-compliance-checklist.md
+│   ├── gdpr-llm-provider-guide.md
+│   ├── llm-provider-analysis.md
+│   ├── README.md
+│   └── security-tier-model.md
 ├── LICENSE
 ├── CONTRIBUTING.md
 └── README.md
@@ -87,8 +86,11 @@ Alle Beiträge unterliegen unserem [CLA](.github/CLA.md).
 
 ## Über EthosAI®
 
-**EthosAI®** implementiert EU AI Act Compliance und DSGVO-Konformität
-als integrierten Bestandteil der Plattform.
+**EthosAI®** ist auf EU-konformen Betrieb ausgelegt und behandelt
+EU AI Act Compliance, DSGVO, Sicherheit und Auditierbarkeit als
+Release- und Deployment-Gates. Die konkrete Konformität eines
+Einsatzszenarios muss weiterhin anhand von Zweck, Daten, Deployment
+und Verantwortlichkeiten geprüft werden.
 
 → [Mehr erfahren](https://ethos-ai.eu)
 → [Kontakt](https://ethos-ai.eu/contact)

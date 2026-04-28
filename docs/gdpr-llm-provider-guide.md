@@ -35,8 +35,10 @@ Drittländer **ohne geeignete Schutzmaßnahmen**.
 
 ## 2  Angemessenheitsbeschlüsse (Art. 45)
 
-Datenübertragung ist zulässig in Länder mit Angemessenheitsbeschluss
-der EU-Kommission (Stand 2026):
+Datenübertragung kann auf einen Angemessenheitsbeschluss gestützt werden,
+wenn der konkrete Empfänger und der konkrete Verarbeitungskontext vom
+Beschluss erfasst sind. Vor jedem produktiven Transfer ist die aktuelle
+EU-Kommissions-/EDPB-Lage zu prüfen (Stand dieses Dokuments: 2026-04):
 
 | Land/Region | Beschluss | Aktuell gültig? |
 |-------------|-----------|-----------------|
@@ -52,6 +54,7 @@ der EU-Kommission (Stand 2026):
 | Neuseeland | 2012/484/EU | ✅ Ja |
 | Südkorea | 2022/254 | ✅ Ja |
 | Schweiz | 2000/518/EC | ✅ Ja |
+| Brasilien | 2026 | ✅ Ja |
 | Großbritannien | 2021/1772 | ✅ Ja (bis 2028) |
 | Uruguay | 2012/484/EU | ✅ Ja |
 | **USA** | **EU-US Data Privacy Framework** | ✅ Ja (2023, nur zertifizierte Organisationen) |
@@ -141,9 +144,9 @@ Was ein LLM-Provider erfüllen muss:
 
 ## Über EthosAI
 
-EthosAI® implementiert EU AI Act Compliance und DSGVO-Konformität
-als integrierten Bestandteil der Plattform — nicht als
-nachträgliche Prüfung.
+EthosAI® ist auf EU-konformen Betrieb ausgelegt und behandelt
+EU AI Act Compliance und DSGVO-Konformität als integrierte
+Release- und Deployment-Gates — nicht als nachträgliche Prüfung.
 
 → [Mehr erfahren](https://ethos-ai.eu)
 → [World-SDK für Entwickler](https://github.com/Rob9999/ethos-ai-world-sdk)
