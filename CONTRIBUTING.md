@@ -1,4 +1,4 @@
-# Contributing to EthosAI EU Compliance
+# Contributing to EthosAI® EU Compliance
 
 Beiträge willkommen! Bitte beachten Sie:
 
@@ -13,7 +13,7 @@ Beiträge willkommen! Bitte beachten Sie:
    <!-- SPDX-License-Identifier: CC-BY-4.0 -->
    <!-- Copyright (c) 2024-2026 Robert Alexander Massinger -->
    ```
-5. **Markenrecht** — „EthosAI™" mit Trademark bei erster Erwähnung.
+5. **Markenrecht** — „EthosAI®" mit Trademark bei erster Erwähnung.
 
 ## Pull Requests
 

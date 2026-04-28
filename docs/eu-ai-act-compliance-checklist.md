@@ -154,7 +154,7 @@ Bestandteil der Plattform:
 
 ## Über EthosAI
 
-EthosAI™ implementiert EU AI Act Compliance und DSGVO-Konformität
+EthosAI® implementiert EU AI Act Compliance und DSGVO-Konformität
 als integrierten Bestandteil der Plattform — nicht als
 nachträgliche Prüfung.
 

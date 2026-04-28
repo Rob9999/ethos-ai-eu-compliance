@@ -163,7 +163,7 @@ aus Abschnitt 3, um eine eigene Bewertung durchzuführen.
 
 ## Über EthosAI
 
-EthosAI™ bietet integrierte Compliance-Prüfung für LLM-Provider-Anbindungen
+EthosAI® bietet integrierte Compliance-Prüfung für LLM-Provider-Anbindungen
 und unterstützt automatische Datenklassifikation pro Request.
 
 → [Mehr erfahren](https://ethos-ai.eu)

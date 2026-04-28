@@ -1,4 +1,4 @@
-# EthosAI EU Compliance
+# EthosAI® EU Compliance
 
 > Praxisorientierte Compliance-Dokumentation für KI-Systeme
 > gemäß EU AI Act und DSGVO — Open Source unter CC-BY 4.0.
@@ -30,7 +30,7 @@
 
 ---
 
-## Feature-Matrix: EthosAI Compliance
+## Feature-Matrix: EthosAI® Compliance
 
 | Feature | Community (MPL-2.0) | Commercial |
 |---------|---------------------|------------|
@@ -85,9 +85,9 @@ Alle Beiträge unterliegen unserem [CLA](.github/CLA.md).
 
 ---
 
-## Über EthosAI
+## Über EthosAI®
 
-**EthosAI™** implementiert EU AI Act Compliance und DSGVO-Konformität
+**EthosAI®** implementiert EU AI Act Compliance und DSGVO-Konformität
 als integrierten Bestandteil der Plattform.
 
 → [Mehr erfahren](https://ethos-ai.eu)
@@ -99,7 +99,7 @@ als integrierten Bestandteil der Plattform.
 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-EthosAI™ ist eine eingetragene Marke. Siehe [Trademark Policy](TRADEMARK.md).
+EthosAI® ist eine eingetragene Marke. Siehe [Trademark Policy](TRADEMARK.md).
 
 ---
 

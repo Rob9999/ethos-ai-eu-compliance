@@ -161,7 +161,7 @@ flowchart TD
 
 ## Über EthosAI
 
-EthosAI™ integriert Security-by-Design in jede Plattformschicht —
+EthosAI® integriert Security-by-Design in jede Plattformschicht —
 von der Entwicklungsumgebung bis zum regulierten Produktivbetrieb.
 
 → [Mehr erfahren](https://ethos-ai.eu)
