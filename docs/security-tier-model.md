@@ -161,7 +161,7 @@ flowchart TD
 
 ## Über EthosAI
 
-EthosAI® ist auf Security-by-Design ausgelegt — von der
+EthosAI™ ist auf Security-by-Design ausgelegt — von der
 Entwicklungsumgebung bis zum regulierten Produktivbetrieb. Die konkrete
 Tier-Einstufung und Nachweisführung bleiben deployment- und
 use-case-spezifische Prüfschritte.

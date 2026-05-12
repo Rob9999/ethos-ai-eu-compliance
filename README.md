@@ -1,4 +1,4 @@
-# EthosAI® EU Compliance
+# EthosAI™ EU Compliance
 
 > Praxisorientierte Compliance-Dokumentation für KI-Systeme
 > gemäß EU AI Act und DSGVO — Open Source unter CC-BY 4.0.
@@ -30,7 +30,7 @@
 
 ---
 
-## Feature-Matrix: EthosAI® Compliance
+## Feature-Matrix: EthosAI™ Compliance
 
 | Feature | Community (MPL-2.0) | Commercial |
 |---------|---------------------|------------|
@@ -84,9 +84,9 @@ Alle Beiträge unterliegen unserem [CLA](.github/CLA.md).
 
 ---
 
-## Über EthosAI®
+## Über EthosAI™
 
-**EthosAI®** ist auf EU-konformen Betrieb ausgelegt und behandelt
+**EthosAI™** ist auf EU-konformen Betrieb ausgelegt und behandelt
 EU AI Act Compliance, DSGVO, Sicherheit und Auditierbarkeit als
 Release- und Deployment-Gates. Die konkrete Konformität eines
 Einsatzszenarios muss weiterhin anhand von Zweck, Daten, Deployment
@@ -101,7 +101,10 @@ und Verantwortlichkeiten geprüft werden.
 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-EthosAI® ist eine eingetragene Marke. Siehe [Trademark Policy](TRADEMARK.md).
+EthosAI™ is a trademark application pending before the German Patent and Trade Mark Office.
+The EthosAI™ trademark is owned by Robert Alexander Massinger.
+This open-source license does not grant trademark rights.
+Siehe [Trademark Policy](TRADEMARK.md) und [Brand Status](BRAND.md).
 
 ---
 

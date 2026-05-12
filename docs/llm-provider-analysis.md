@@ -165,7 +165,7 @@ aus Abschnitt 3, um eine eigene Bewertung durchzuführen.
 
 ## Über EthosAI
 
-EthosAI® ist auf EU-konformen Betrieb ausgelegt und bietet integrierte
+EthosAI™ ist auf EU-konformen Betrieb ausgelegt und bietet integrierte
 Compliance-Prüfung für LLM-Provider-Anbindungen sowie Datenklassifikation
 pro Request. Die konkrete Anbieterfreigabe bleibt ein dokumentierter
 Prüfschritt des jeweiligen Deployments.

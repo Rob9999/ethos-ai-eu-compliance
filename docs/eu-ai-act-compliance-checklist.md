@@ -156,7 +156,7 @@ und der Risikoklasse ab:
 
 ## Über EthosAI
 
-EthosAI® ist auf EU-konformen Betrieb ausgelegt und behandelt
+EthosAI™ ist auf EU-konformen Betrieb ausgelegt und behandelt
 EU AI Act Compliance und DSGVO-Konformität als integrierte
 Release- und Deployment-Gates — nicht als nachträgliche Prüfung.
 
